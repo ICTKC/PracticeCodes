@@ -9,3 +9,7 @@
 
 ## pyTorch入门
 - [PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial)
+
+## 要求
+- 上述代码读懂并且自己实现（No Ctrl-C/V)一遍，或者
+- 对自己的代码能力有足够信心
