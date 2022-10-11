@@ -14,13 +14,13 @@
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ### 基础编程
-https://www.bilibili.com/video/BV17F411T7Ao/
+- https://www.bilibili.com/video/BV17F411T7Ao/
 
 ### Java框架
-Maven：https://www.bilibili.com/video/BV1Ah411S7ZE/
-Git：https://www.bilibili.com/video/BV1MU4y1Y7h5/
-MybatisPlus：https://www.bilibili.com/video/BV1rE41197jR/
-Spring Boot：https://www.bilibili.com/video/BV15b4y1a7yG/
+- Maven：https://www.bilibili.com/video/BV1Ah411S7ZE/
+- Git：https://www.bilibili.com/video/BV1MU4y1Y7h5/
+- MybatisPlus：https://www.bilibili.com/video/BV1rE41197jR/
+- Spring Boot：https://www.bilibili.com/video/BV15b4y1a7yG/
 
 ## 要求
 - 上述代码读懂并且自己实现（No Ctrl-C/V)一遍，或者
