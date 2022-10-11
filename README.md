@@ -10,7 +10,7 @@
 ## pyTorch入门
 - [PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial)
 
-## Java
+## Java（选修）
 ### 基础编程
 
 ### Java框架
